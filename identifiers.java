@@ -5,6 +5,6 @@ public class identifiers {
     int a=90;
     int b=80;
     System.out.println(a);
-
+     System.out.println(a);
   }
 }
